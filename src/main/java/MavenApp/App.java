@@ -1,4 +1,4 @@
-package Maven-App
+package MavenApp
 
 public class App 
 {
